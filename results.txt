@@ -1,0 +1,272 @@
+
+Results for 10 runs each
+
+SMALL1 ---------------------------------------------------------------------------------------------------
+
+RunGeneticAlgorithm1
+Średni czas :  0.11631965637207031
+Średnia liczba pozostałych kafelków :  0.0 / 64
+Średni procent usuniętych kafelków :  100.0
+Średnia generacja najlepszego rozwiązania :  1.1
+
+RunGeneticAlgorithm2
+Średni czas :  0.45280482769012453
+Średnia liczba pozostałych kafelków :  0.0 / 64
+Średni procent usuniętych kafelków :  100.0
+Średnia generacja najlepszego rozwiązania :  1.0
+
+RunGeneticAlgorithm3
+Średni czas :  0.47347493171691896
+Średnia liczba pozostałych kafelków :  0.0 / 64
+Średni procent usuniętych kafelków :  100.0
+Średnia generacja najlepszego rozwiązania :  1.1
+
+RunGeneticAlgorithm4
+Średni czas :  0.12307116985321045
+Średnia liczba pozostałych kafelków :  0.0 / 64
+Średni procent usuniętych kafelków :  100.0
+Średnia generacja najlepszego rozwiązania :  1.6
+
+RunGeneticAlgorithm5
+Średni czas :  0.1335289478302002
+Średnia liczba pozostałych kafelków :  0.0 / 64
+Średni procent usuniętych kafelków :  100.0
+Średnia generacja najlepszego rozwiązania :  1.1
+
+SMALL2 ---------------------------------------------------------------------------------------------------
+
+RunGeneticAlgorithm1
+Średni czas :  0.6050256013870239
+Średnia liczba pozostałych kafelków :  0.0 / 64
+Średni procent usuniętych kafelków :  100.0
+Średnia generacja najlepszego rozwiązania :  12.2
+
+RunGeneticAlgorithm2
+Średni czas :  4.823326063156128
+Średnia liczba pozostałych kafelków :  0.0 / 64
+Średni procent usuniętych kafelków :  100.0
+Średnia generacja najlepszego rozwiązania :  18.7
+
+RunGeneticAlgorithm3
+Średni czas :  3.64699010848999
+Średnia liczba pozostałych kafelków :  0.0 / 64
+Średni procent usuniętych kafelków :  100.0
+Średnia generacja najlepszego rozwiązania :  13.8
+
+RunGeneticAlgorithm4
+Średni czas :  2.50732741355896
+Średnia liczba pozostałych kafelków :  0.0 / 64
+Średni procent usuniętych kafelków :  100.0
+Średnia generacja najlepszego rozwiązania :  52.9
+
+RunGeneticAlgorithm5
+Średni czas :  1.1594476461410523
+Średnia liczba pozostałych kafelków :  0.0 / 64
+Średni procent usuniętych kafelków :  100.0
+Średnia generacja najlepszego rozwiązania :  18.1
+
+SMALL3 ---------------------------------------------------------------------------------------------------
+
+RunGeneticAlgorithm1
+Średni czas :  1.52260262966156
+Średnia liczba pozostałych kafelków :  0.0 / 64
+Średni procent usuniętych kafelków :  100.0
+Średnia generacja najlepszego rozwiązania :  24.4
+
+RunGeneticAlgorithm2
+Średni czas :  1.52260262966156
+Średnia liczba pozostałych kafelków :  0.0 / 64
+Średni procent usuniętych kafelków :  100.0
+Średnia generacja najlepszego rozwiązania :  24.4
+
+RunGeneticAlgorithm3
+Średni czas :  8.675937247276305
+Średnia liczba pozostałych kafelków :  0.0 / 64
+Średni procent usuniętych kafelków :  100.0
+Średnia generacja najlepszego rozwiązania :  29.7
+
+RunGeneticAlgorithm4
+Średni czas :  6.661644792556762
+Średnia liczba pozostałych kafelków :  0.8 / 64
+Średni procent usuniętych kafelków :  98.75
+Średnia generacja najlepszego rozwiązania :  91.3
+
+RunGeneticAlgorithm5
+Średni czas :  4.486942625045776
+Średnia liczba pozostałych kafelków :  0.0 / 64
+Średni procent usuniętych kafelków :  100.0
+Średnia generacja najlepszego rozwiązania :  56.6
+
+MEDIUM1 ---------------------------------------------------------------------------------------------------
+
+RunGeneticAlgorithm1
+Średni czas :  0.7003430128097534
+Średnia liczba pozostałych kafelków :  0.0 / 144
+Średni procent usuniętych kafelków :  100.0
+Średnia generacja najlepszego rozwiązania :  1.3
+
+RunGeneticAlgorithm2
+Średni czas :  2.3926461219787596
+Średnia liczba pozostałych kafelków :  0.0 / 144
+Średni procent usuniętych kafelków :  100.0
+Średnia generacja najlepszego rozwiązania :  1.2
+
+RunGeneticAlgorithm3
+Średni czas :  2.440606188774109
+Średnia liczba pozostałych kafelków :  0.0 / 144
+Średni procent usuniętych kafelków :  100.0
+Średnia generacja najlepszego rozwiązania :  1.1
+
+RunGeneticAlgorithm4
+Średni czas :  0.5653186082839966
+Średnia liczba pozostałych kafelków :  0.0 / 144
+Średni procent usuniętych kafelków :  100.0
+Średnia generacja najlepszego rozwiązania :  1.7
+
+RunGeneticAlgorithm5
+Średni czas :  0.6637676000595093
+Średnia liczba pozostałych kafelków :  0.0 / 144
+Średni procent usuniętych kafelków :  100.0
+Średnia generacja najlepszego rozwiązania :  1.5
+
+MEDIUM2 ---------------------------------------------------------------------------------------------------
+
+RunGeneticAlgorithm1
+Średni czas :  7.135438871383667
+Średnia liczba pozostałych kafelków :  0.0 / 144
+Średni procent usuniętych kafelków :  100.0
+Średnia generacja najlepszego rozwiązania :  29.6
+
+RunGeneticAlgorithm2
+Średni czas :  50.32056441307068
+Średnia liczba pozostałych kafelków :  0.0 / 144
+Średni procent usuniętych kafelków :  100.0
+Średnia generacja najlepszego rozwiązania :  26.2
+
+RunGeneticAlgorithm3
+Średni czas :  52.35058681964874
+Średnia liczba pozostałych kafelków :  0.0 / 144
+Średni procent usuniętych kafelków :  100.0
+Średnia generacja najlepszego rozwiązania :  26.5
+
+RunGeneticAlgorithm4
+Średni czas :  41.21237828731537
+Średnia liczba pozostałych kafelków :  1.8 / 144
+Średni procent usuniętych kafelków :  98.75
+Średnia generacja najlepszego rozwiązania :  200.3
+
+RunGeneticAlgorithm5
+Średni czas :  30.660156345367433
+Średnia liczba pozostałych kafelków :  1.7 / 144
+Średni procent usuniętych kafelków :  98.81944444444444
+Średnia generacja najlepszego rozwiązania :  85.1
+
+MEDIUM3 ---------------------------------------------------------------------------------------------------
+
+RunGeneticAlgorithm1
+Średni czas :  80.987779545784
+Średnia liczba pozostałych kafelków :  4.4 / 144
+Średni procent usuniętych kafelków :  96.94444444444444
+Średnia generacja najlepszego rozwiązania :  211.1
+
+RunGeneticAlgorithm2
+Średni czas :  1094.132748222351
+Średnia liczba pozostałych kafelków :  5.5 / 144
+Średni procent usuniętych kafelków :  96.18055555555556
+Średnia generacja najlepszego rozwiązania :  202.5
+
+RunGeneticAlgorithm3
+Średni czas :  1260.6398339271545
+Średnia liczba pozostałych kafelków :  4 / 144
+Średni procent usuniętych kafelków :  97.22222222222221
+Średnia generacja najlepszego rozwiązania :  60.2
+
+RunGeneticAlgorithm4
+Średni czas :  55.16124069690704
+Średnia liczba pozostałych kafelków :  25.2 / 144
+Średni procent usuniętych kafelków :  82.5
+Średnia generacja najlepszego rozwiązania :  310.8
+
+RunGeneticAlgorithm5
+Średni czas :  106.77511954307556
+Średnia liczba pozostałych kafelków :  16.4 / 144
+Średni procent usuniętych kafelków :  88.61111111111111
+Średnia generacja najlepszego rozwiązania :  218.0
+
+BIG1 ---------------------------------------------------------------------------------------------------
+
+RunGeneticAlgorithm1
+Średni czas :  3.2499377012252806
+Średnia liczba pozostałych kafelków :  0.0 / 256
+Średni procent usuniętych kafelków :  100.0
+Średnia generacja najlepszego rozwiązania :  3.5
+
+RunGeneticAlgorithm2
+Średni czas :  24.586491775512695
+Średnia liczba pozostałych kafelków :  0.0 / 256
+Średni procent usuniętych kafelków :  100.0
+Średnia generacja najlepszego rozwiązania :  4.2
+
+RunGeneticAlgorithm3
+Średni czas :  34.037921810150145
+Średnia liczba pozostałych kafelków :  0.0 / 256
+Średni procent usuniętych kafelków :  100.0
+Średnia generacja najlepszego rozwiązania :  4.5
+
+RunGeneticAlgorithm4
+Średni czas :  16.743747448921205
+Średnia liczba pozostałych kafelków :  0.0 / 256
+Średni procent usuniętych kafelków :  100.0
+Średnia generacja najlepszego rozwiązania :  7.2
+
+RunGeneticAlgorithm5
+Średni czas :  9.420756721496582
+Średnia liczba pozostałych kafelków :  0.0 / 256
+Średni procent usuniętych kafelków :  100.0
+Średnia generacja najlepszego rozwiązania :  9.4
+
+BIG2 ---------------------------------------------------------------------------------------------------
+
+RunGeneticAlgorithm1
+Średni czas :  142.4886622428894
+Średnia liczba pozostałych kafelków :  1.9 / 256
+Średni procent usuniętych kafelków :  99.2578125
+Średnia generacja najlepszego rozwiązania :  129.3
+
+RunGeneticAlgorithm2
+tbd
+
+RunGeneticAlgorithm3
+tbd
+
+RunGeneticAlgorithm4
+Średni czas :  244.83717529773713
+Średnia liczba pozostałych kafelków :  28.9 / 256
+Średni procent usuniętych kafelków :  88.7109375
+Średnia generacja najlepszego rozwiązania :  370.4
+
+RunGeneticAlgorithm5
+tbd
+
+BIG3 ---------------------------------------------------------------------------------------------------
+
+RunGeneticAlgorithm1
+Średni czas :  192.72282960414887
+Średnia liczba pozostałych kafelków :  13.3 / 256
+Średni procent usuniętych kafelków :  94.8046875
+Średnia generacja najlepszego rozwiązania :  185.7
+
+RunGeneticAlgorithm2
+tbd
+
+RunGeneticAlgorithm3
+tbd
+
+RunGeneticAlgorithm4
+Średni czas :  141.1136870622635
+Średnia liczba pozostałych kafelków :  44.5 / 256
+Średni procent usuniętych kafelków :  82.6171875
+Średnia generacja najlepszego rozwiązania :  309.4
+
+RunGeneticAlgorithm5
+tbd
